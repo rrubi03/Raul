@@ -4,5 +4,5 @@
     <input type="submit"/>
 </form>
 <script>
- document.csrfForm.submit();
+ document.csrfform.submit();
 </script>
