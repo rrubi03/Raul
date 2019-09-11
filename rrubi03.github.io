@@ -4,5 +4,5 @@
     <input type="submit"/>
 </form>
 <script>
- document.rrubi03.submit();
+ document.csrform.submit();
 </script>
